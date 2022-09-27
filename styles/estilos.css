@@ -1,0 +1,43 @@
+html,body{
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    background:url("img/pesa.jpg ")no-repeat center center fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    background-size: cover;
+}
+#salud {
+    background: rgba(255, 255, 255, 0.2) ;
+    width: 30rem ;
+    height: 20rem;
+    padding: 250;
+    text-align: center;
+    border-radius: 5px;
+}
+h1{
+
+   background: #6bc2c2 ;
+    width: 30rem ;
+    padding: auto;
+    font-size: 12;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(49, 45, 45);
+
+}
+h3{
+    font-size: 12;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     color: white;
+}
+#btncalcular{
+    background-color:rgb(49, 45, 45);
+    border: 5px;
+    padding: 0.3rem 2;
+
+
+}
